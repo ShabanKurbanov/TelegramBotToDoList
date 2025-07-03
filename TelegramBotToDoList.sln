@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelegramBotToDoList", "TelegramBotToDoList\TelegramBotToDoList.csproj", "{324BDDC6-FB32-493B-840B-27D1ABC65594}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Otus.ToDoList.ConsoleBot", "Otus.ToDoList.ConsoleBot\Otus.ToDoList.ConsoleBot.csproj", "{B094D233-2277-4BE0-B847-945603505FEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{324BDDC6-FB32-493B-840B-27D1ABC65594}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{324BDDC6-FB32-493B-840B-27D1ABC65594}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{324BDDC6-FB32-493B-840B-27D1ABC65594}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{324BDDC6-FB32-493B-840B-27D1ABC65594}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B094D233-2277-4BE0-B847-945603505FEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B094D233-2277-4BE0-B847-945603505FEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B094D233-2277-4BE0-B847-945603505FEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B094D233-2277-4BE0-B847-945603505FEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC86AF22-6D50-47C6-B34A-2C05244C5056}
+	EndGlobalSection
+EndGlobal
